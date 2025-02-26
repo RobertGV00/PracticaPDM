@@ -1,0 +1,41 @@
+<resources>
+    <!-- Títulos -->
+    <string name="app_name">Perfil de Usuario</string>
+    <string name="titulo_perfil">Perfil de Usuario</string>
+    <string name="confirmacion">Confirmación</string>
+    <string name="añadir_usuario">Añadir Usuario</string>
+
+    <!-- Campos de texto -->
+    <string name="nombre_label">Nombre: %s</string>
+    <string name="nombre">Nombre </string>
+    <string name="edad_label">Edad: %d años</string>
+    <string name="edad">Edad</string>
+    <string name="genero">Genero</string>
+    <string name="generoH">Hombre</string>
+    <string name="generoM">Mujer</string>
+
+    <!-- Botones -->
+    <string name="guardar_btn">Guardar usuario</string>
+    <string name="volver">Volver a la lista</string>
+
+    <!-- Iconos -->
+    <string name="icono_navegar">Navegar</string>
+    <string name="pregunta_confirmacion">¿Seguro que quieres borrar este usuario?</string>
+    <string name="imagenperfil">Imagen de Perfil</string>
+
+    <!-- Mensajes -->
+    <string name="datos_guardados">Datos guardados</string>
+    <string name="datos_incompletos">Datos incompletos</string>
+
+    <string name="creado_con_exito">Usuario creado con éxito</string>
+
+    <string name="eliminado_exito">Usuario eliminado con éxito</string>
+
+    <!--si/no/cancelar-->
+    <string name="si">Sí</string>
+    <string name="no">No</string>
+    <string name="cancelar">Cancelar</string>
+
+    <!--Otros-->
+    <string name="eliminarusuario">Eliminar Usuario</string>
+</resources>
